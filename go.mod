@@ -1,4 +1,4 @@
-module github.com/sanity-io/litter
+module github.com/elliots/litter
 
 require (
 	github.com/alecthomas/chroma v0.6.7
